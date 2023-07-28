@@ -1,0 +1,31 @@
+export default {
+  loader: require('./loader.gif'),
+  google: require('./goggle.png'),
+  facebook: require('./facebook.png'),
+  apple: require('./apple.png'),
+  boatHeadPhoneOne: require('./product/boat_headphone_1.jpg'),
+  boatHeadPhoneTwo: require('./product/boat_headphone_2.jpg'),
+  iPhone13_1: require('./product/iphone13_1.jpg'),
+  iPhone13_2: require('./product/iphone13_2.jpg'),
+  iPhone13_3: require('./product/iphone13_3.jpg'),
+  iPhone14_1: require('./product/iphone14_1.jpg'),
+  iPhone14_2: require('./product/iphone14_2.jpg'),
+  iPhone14_3: require('./product/iphone14_3.jpg'),
+  miHeadphone_1: require('./product/mi_headphone_1.png'),
+  miHeadphone_2: require('./product/mi_headphone_2.jpg'),
+  miHeadphone_3: require('./product/mi_headphone_3.jpg'),
+  onePlus_1: require('./product/oneplus_1.jpg'),
+  onePlus_2: require('./product/oneplus_2.jpg'),
+  onePlus_3: require('./product/oneplus_3.jpg'),
+  onePlus_4: require('./product/oneplus_4.jpg'),
+  onePlusPhone_1: require('./product/oneplus_phone_1jpg.webp'),
+  onePlusPhone_2: require('./product/oneplus_phone_2.jpg'),
+  onePlusPhone_3: require('./product/oneplus_phone_3.jpg'),
+  profilePhoto:
+    'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+  notFound: require('./not-found.png'),
+  sample:
+    'https://m.media-amazon.com/images/I/41zejggGzLL._SX300_SY300_QL70_FMwebp_.jpg',
+  imageLoader:
+    'https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif?cid=ecf05e474n1zkzs05so59osl5rp4iefil1jhgqtjmru0lld5&ep=v1_gifs_search&rid=giphy.gif&ct=g',
+};
